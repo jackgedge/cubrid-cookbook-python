@@ -1,7 +1,0 @@
-templates/flask/02-categories/01-basic-crud
-templates/flask/03-inventory-ledger/01-basic-crud
-templates/flask/04-purchase-orders/01-basic-crud
-templates/flask/05-batch-operations/01-basic-crud
-templates/flask/06-case-triage/01-basic-crud
-templates/flask/07-vendor-feed/01-basic-crud
-templates/flask/08-transactional-outbox/01-basic-crud
